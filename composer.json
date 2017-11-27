@@ -1,0 +1,11 @@
+{
+    "require": {
+        "greenlion/php-sql-parser": "^4.1",
+        "nikic/fast-route": "^1.2",
+        "acrylic-origami/parse-sql-identifier": "dev-master"
+    },
+    "repositories": [{
+    	"type": "path",
+    	"url": "../ParseSQLIdentifier"
+    }]
+}
